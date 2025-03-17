@@ -1,17 +1,15 @@
+## Hi there 👋  
 
- ## Hi there 👋
- 
- <!--
- **xuanyu2003/xuanyu2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
- Here are some ideas to get you started:
- 
- - 🔭 I’m currently working on ...
- - 🌱 I’m currently learning ...
- - 👯 I’m looking to collaborate on ...
- - 🤔 I’m looking for help with ...
- - 💬 Ask me about ...
- - 📫 How to reach me: ...
- - 😄 Pronouns: ...
- - ⚡ Fun fact: ...
- -->
+Welcome to my GitHub profile! I'm ** Xuanyu Liu**, a second-year Information Technology student at Oulu University of Applied Sciences, currently seeking job opportunities.  
+
+### 🚀 About Me  
+- 🌱 I’m learning **Supabase, cybersecurity, and web application security**  
+- 👯 I’m looking to collaborate on **mobile and web development projects**  
+- 😄 Pronouns: **She/Her**  
+
+### 📫 How to Reach Me  
+- **Email:** [t3lixu00@students.oamk.fi]  
+- **LinkedIn:** [www.linkedin.com/in/xuanyu-liu2003]  
+- **Website:** [https://xuanyu2003.github.io/] 
+
+⚡ **Fun Fact:** I love playing the **guitar and drums**, and I'm a huge fan of **Rhythm Tengoku** 🎸🎮  
