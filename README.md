@@ -12,5 +12,4 @@ Welcome to my GitHub profile! I'm **Xuanyu Liu**, a 3rd-year Information Technol
 - **Email:** [t3lixu00@students.oamk.fi]
 - **Website:** [https://xuanyu2003.github.io/]  
 - **LinkedIn:** [www.linkedin.com/in/xuanyu-liu2003]  
-- **Instagram:** [https://www.instagram.com/xuanx030]
   
