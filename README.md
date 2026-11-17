@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-Welcome to my GitHub profile! I'm **Xuanyu Liu**, a 3rd-year Information Technology student at Oulu University of Applied Sciences.  
+Welcome to my GitHub profile! I'm **Xuanyu Liu**, a 4th-year Information Technology student at Oulu University of Applied Sciences.  
 
 ### 🚀 About Me  
 - 😄 Pronouns: **She/Her** or **Ta**
